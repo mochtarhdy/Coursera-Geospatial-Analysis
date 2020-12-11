@@ -1,1 +1,1 @@
-to see project clisk this link https://mochtarhdy.github.io/Coursera-Geospatial-Analysis/
+to see this project click this link https://mochtarhdy.github.io/Coursera-Geospatial-Analysis/
